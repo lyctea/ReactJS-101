@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/ch02/app/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch02/webpack.config.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch02/dist/index_bundle.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/ch02/app/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch02/webpack.config.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch02/dist/index_bundle.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
