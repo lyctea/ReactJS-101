@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>A Component Using External Plugins</title>
-</head>
-<body>
-<!-- 这边方便使用 CDN 方式引入 react 、 react-dom 进行讲解，实务上和实战教学部分我们会使用 webpack -->
-<script src="../build/react.js"></script>
-<script src="../build/react-dom.js"></script>
-<script src="../build/browser.min.js"></script>
-
-<div id="app">----></div>
-<script type="text/babel">
-
 // Functional Component 可以视为 f(d) => UI，
 // 根据传进去的 props 绘出对应的 UI。
 // 注意这边 props 是传入函式的参数，因此取用 props 不用加 this
@@ -47,10 +31,3 @@ HelloMessage.defaultProps = {
     name: 'Zuck',
 }
 ReactDOM.render(<HelloMessage name="Mark" />, document.getElementById('app'));
-
-
-
-</script>
-
-</body>
-</html>
