@@ -2,14 +2,48 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/Repos/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/webpack.config.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/User/User.js" />
         <item url="file://$PROJECT_DIR$/dist/ch02/app/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/User/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/Repos/Repos.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/Contacts/Contacts.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/Contacts/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/App/appStyle.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/App/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/Home/Home.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/Home/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/About/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/About/About.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/NavLink/NavLink.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/App/App.js" />
         <item url="file://$PROJECT_DIR$/dist/ch02/webpack.config.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch05/src/components/NavLink/index.js" />
         <item url="file://$PROJECT_DIR$/dist/ch02/dist/index_bundle.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/Repos/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/webpack.config.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/User/User.js" />
       <root url="file://$PROJECT_DIR$/dist/ch02/app/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/User/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/Repos/Repos.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/Contacts/Contacts.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/Contacts/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/App/appStyle.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/App/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/Home/Home.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/Home/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/About/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/About/About.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/NavLink/NavLink.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/App/App.js" />
       <root url="file://$PROJECT_DIR$/dist/ch02/webpack.config.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch05/src/components/NavLink/index.js" />
       <root url="file://$PROJECT_DIR$/dist/ch02/dist/index_bundle.js" />
     </CLASSES>
     <SOURCES />

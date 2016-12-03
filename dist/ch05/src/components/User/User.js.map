@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../ch05/src/components/User/User.js"],"names":["User"],"mappings":";;;;;;AAAA;;;;;;AAEA,IAAMA,OAAO,SAAPA,IAAO;AAAA,WACT;AAAA;AAAA;AAAA;AAAA,KADS;AAAA,CAAb;;kBAIeA,I","file":"User.js","sourcesContent":["import React from 'react';\r\n\r\nconst User = () => (\r\n    <div>User</div>\r\n);\r\n\r\nexport default User;"]}
