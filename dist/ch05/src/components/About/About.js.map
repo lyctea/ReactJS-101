@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../ch05/src/components/About/About.js"],"names":["About"],"mappings":";;;;;;AAAA;;;;;;AAEA,IAAMA,QAAQ,SAARA,KAAQ;AAAA,WACV;AAAA;AAAA;AAAA;AAAA,KADU;AAAA,CAAd;;kBAIeA,K","file":"About.js","sourcesContent":["import React from 'react';\r\n\r\nconst About = () => (\r\n    <div>About</div>\r\n);\r\n\r\nexport default About;"]}

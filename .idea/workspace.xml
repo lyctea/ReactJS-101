@@ -2,9 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cb595ff-a85f-4a2f-8b88-3ff8053fdad4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/UserGithub/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/UserGithub/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch02/app/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch02/app/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch02/dist/index_bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch02/dist/index_bundle.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch02/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch02/webpack.config.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/About/About.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/About/About.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/About/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/About/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/App/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/App/App.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/App/appStyle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/App/appStyle.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/App/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/App/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Contacts/Contacts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Contacts/Contacts.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Contacts/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Contacts/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Home/Home.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Home/Home.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Home/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Home/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/NavLink/NavLink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/NavLink/NavLink.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/NavLink/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/NavLink/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Repos/Repos.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Repos/Repos.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Repos/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/Repos/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/User/User.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/User/User.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/User/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/components/User/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/src/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch05/webpack.config.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/actions/todoActions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/actions/todoActions.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/components/TodoHeader/TodoHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/components/TodoHeader/TodoHeader.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/components/TodoHeader/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/components/TodoHeader/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/components/TodoList/TodoList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/components/TodoList/TodoList.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/components/TodoList/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/components/TodoList/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/constants/actionTypes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/constants/actionTypes.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/dispatcher/AppDispatcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/dispatcher/AppDispatcher.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/stores/TodoStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/ch07/src/stores/TodoStore.js.map" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/npm-debug.log" afterPath="$PROJECT_DIR$/ch07/npm-debug.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/src/actions/todoActions.js" afterPath="$PROJECT_DIR$/ch07/src/actions/todoActions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/src/components/TodoHeader/TodoHeader.js" afterPath="$PROJECT_DIR$/ch07/src/components/TodoHeader/TodoHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/src/components/TodoList/TodoList.js" afterPath="$PROJECT_DIR$/ch07/src/components/TodoList/TodoList.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/src/constants/actionTypes.js" afterPath="$PROJECT_DIR$/ch07/src/constants/actionTypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/src/dispatcher/AppDispatcher.js" afterPath="$PROJECT_DIR$/ch07/src/dispatcher/AppDispatcher.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/src/index.js" afterPath="$PROJECT_DIR$/ch07/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/src/stores/TodoStore.js" afterPath="$PROJECT_DIR$/ch07/src/stores/TodoStore.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,23 +91,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TodoList.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch07/src/components/TodoList/TodoList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch07/src/components/TodoList/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TodoList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch07/src/components/TodoList/TodoList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <folding>
+                <element signature="e#38#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="npm-debug.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch07/npm-debug.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch07/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch07/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TodoStore.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch07/src/stores/TodoStore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -92,16 +198,17 @@
         <option value="$PROJECT_DIR$/ch05/src/components/Repos/Repos.js" />
         <option value="$PROJECT_DIR$/ch05/src/components/User/User.js" />
         <option value="$PROJECT_DIR$/ch05/src/components/User/index.js" />
+        <option value="$PROJECT_DIR$/ch07/src/components/TodoHeader/index.js" />
+        <option value="$PROJECT_DIR$/ch07/src/components/TodoList/index.js" />
         <option value="$PROJECT_DIR$/ch07/src/index.html" />
         <option value="$PROJECT_DIR$/ch07/src/index.js" />
         <option value="$PROJECT_DIR$/ch07/src/constants/actionTypes.js" />
-        <option value="$PROJECT_DIR$/ch07/src/actions/todoActions.js" />
         <option value="$PROJECT_DIR$/ch07/src/dispatcher/AppDispatcher.js" />
+        <option value="$PROJECT_DIR$/ch07/src/actions/todoActions.js" />
         <option value="$PROJECT_DIR$/ch07/src/stores/TodoStore.js" />
-        <option value="$PROJECT_DIR$/ch07/src/components/TodoHeader/index.js" />
         <option value="$PROJECT_DIR$/ch07/src/components/TodoHeader/TodoHeader.js" />
-        <option value="$PROJECT_DIR$/ch07/src/components/TodoList/index.js" />
         <option value="$PROJECT_DIR$/ch07/src/components/TodoList/TodoList.js" />
+        <option value="$PROJECT_DIR$/ch07/dist/index.html" />
       </list>
     </option>
   </component>
@@ -123,8 +230,8 @@
     <handled-path value="$PROJECT_DIR$/ch07/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
-    <option name="y" value="77" />
+    <option name="x" value="171" />
+    <option name="y" value="43" />
     <option name="width" value="1141" />
     <option name="height" value="932" />
   </component>
@@ -188,7 +295,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -292,15 +399,15 @@
       <workItem from="1480726961629" duration="12289000" />
       <workItem from="1480821544643" duration="3000" />
       <workItem from="1480821553953" duration="2584000" />
-      <workItem from="1480846547864" duration="5796000" />
+      <workItem from="1480846547864" duration="12141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42476000" />
+    <option name="totallyTimeSpent" value="48821000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="77" width="1141" height="932" extended-state="0" />
+    <frame x="171" y="43" width="1141" height="932" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17588395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -335,27 +442,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch02/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch02/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch02/app/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch02/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -607,75 +693,70 @@
     <entry file="file://$PROJECT_DIR$/ch07/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch07/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch07/src/actions/todoActions.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
-            <element signature="e#0#56#0" expanded="false" />
-            <marker date="1480848386974" expanded="true" signature="138:303" ph="{...}" />
-            <marker date="1480848386974" expanded="true" signature="158:301" ph="{...}" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch07/src/constants/actionTypes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch07/src/dispatcher/AppDispatcher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="345">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch07/src/stores/TodoStore.js">
+    <entry file="file://$PROJECT_DIR$/ch07/src/actions/todoActions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#56#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="299">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch07/src/components/TodoHeader/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch07/src/components/TodoHeader/TodoHeader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
-            <marker date="1480851273794" expanded="true" signature="158:365" ph="{...}" />
-            <marker date="1480851273794" expanded="true" signature="386:467" ph="{...}" />
-            <marker date="1480851273794" expanded="true" signature="480:591" ph="{...}" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch07/src/stores/TodoStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -689,11 +770,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch07/src/components/TodoList/TodoList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="437">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#38#79#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch07/npm-debug.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch07/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch07/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../ch05/src/components/App/appStyle.js"],"names":["active","color"],"mappings":";;;;;kBAAe;AACXA,YAAQ;AACJC,eAAO;AADH;AADG,C","file":"appStyle.js","sourcesContent":["export default {\r\n    active: {\r\n        color: 'red',\r\n    },\r\n};"]}

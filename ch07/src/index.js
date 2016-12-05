@@ -1,21 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ToDoHeader from './components/TodoHeader';
+import TodoHeader from './components/TodoHeader';
 import TodoList from './components/TodoList';
 
+//App 组件返回的TodoHeader和TodoList组件
 class App extends React.Component {
-    constructor(props){
+    constructor(props) {
         super(props);
-        this.state = {};
+        this.state = {};  //初始状态置空
     }
-    render(){
-        return(
+    render() {
+        return (
             <div>
-                <ToDoHeader />
+                <TodoHeader />
                 <TodoList />
             </div>
         );
     }
 }
 
-ReactDOM.render(<App/>,document.getElementById('app'));
+ReactDOM.render(<App />, document.getElementById('app'));

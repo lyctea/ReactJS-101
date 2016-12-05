@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../ch05/src/components/Contacts/Contacts.js"],"names":["Contacts"],"mappings":";;;;;;AAAA;;;;;;AAEA,IAAMA,WAAW,SAAXA,QAAW;AAAA,WACb;AAAA;AAAA;AAAA;AAAA,KADa;AAAA,CAAjB;;kBAIeA,Q","file":"Contacts.js","sourcesContent":["import React from 'react'\r\n\r\nconst Contacts = () => (\r\n    <div>Contacts</div>\r\n);\r\n\r\nexport default Contacts;"]}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../ch05/src/components/NavLink/index.js"],"names":["default"],"mappings":";;;;;;;;;;;4CAAQA,O","file":"index.js","sourcesContent":["export {default} from './NavLink';"]}

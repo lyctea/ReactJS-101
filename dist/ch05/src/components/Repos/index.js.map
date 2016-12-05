@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../ch05/src/components/Repos/index.js"],"names":["default"],"mappings":";;;;;;;;;;;0CAASA,O","file":"index.js","sourcesContent":["export { default } from './Repos';"]}
