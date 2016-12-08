@@ -1,5 +1,14 @@
 <component name="libraryTable">
   <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/ResultPage.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/GithubBox/GithubBox.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/HomePage.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/index.js" />
+      </sourceFilesUrls>
+    </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/ch02/app/index.js" />
       <root url="file://$PROJECT_DIR$/dist/ch07/src/index.js" />
@@ -31,6 +40,11 @@
       <root url="file://$PROJECT_DIR$/dist/ch05/src/components/Repos/Repos.js" />
       <root url="file://$PROJECT_DIR$/dist/ch07/webpack.config.js" />
       <root url="file://$PROJECT_DIR$/dist/ch05/src/components/App/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/ResultPage.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/GithubBox/GithubBox.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/HomePage.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/index.js" />
     </CLASSES>
     <SOURCES />
   </library>
