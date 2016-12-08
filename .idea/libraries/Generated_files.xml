@@ -3,10 +3,19 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/ResultPage.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/reducers/data/githubReducers.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/reducers/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/ResultPageContainer/ResultPageContainer.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/ResultPageContainer/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/HomePageContainer/HomePageContainer.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/HomePageContainer/index.js" />
         <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/GithubBox/GithubBox.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/store/configureStore.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/store/index.js" />
         <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/index.js" />
         <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/HomePage.js" />
         <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/reducers/ui/uiReducers.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -41,10 +50,19 @@
       <root url="file://$PROJECT_DIR$/dist/ch07/webpack.config.js" />
       <root url="file://$PROJECT_DIR$/dist/ch05/src/components/App/index.js" />
       <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/ResultPage.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/reducers/data/githubReducers.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/reducers/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/ResultPageContainer/ResultPageContainer.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/ResultPageContainer/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/HomePageContainer/HomePageContainer.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/HomePageContainer/index.js" />
       <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/GithubBox/GithubBox.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/store/configureStore.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/store/index.js" />
       <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/index.js" />
       <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/HomePage.js" />
       <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/reducers/ui/uiReducers.js" />
     </CLASSES>
     <SOURCES />
   </library>

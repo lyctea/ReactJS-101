@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../ch09/github-finder/src/store/index.js"],"names":["default"],"mappings":";;;;;;;;;;;mDAASA,O","file":"index.js","sourcesContent":["export { default } from './configureStore';"]}
