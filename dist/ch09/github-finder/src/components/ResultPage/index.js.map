@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../../ch09/github-finder/src/components/ResultPage/index.js"],"names":["default"],"mappings":";;;;;;;;;;;+CAASA,O","file":"index.js","sourcesContent":["export { default } from './ResultPage';"]}
