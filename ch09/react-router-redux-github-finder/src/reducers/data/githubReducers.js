@@ -8,12 +8,14 @@ import {
   CHAGE_USER_ID,
 } from '../../constants/actionTypes';
 
-const githubReducers = handleActions({ 
+const githubReducers = handleActions({
+    // 当使用者按送出按钮，发出 GET_GITHUB_SUCCESS action 时将接收到的资料 merge
   GET_GITHUB_SUCCESS: (state, { payload }) => (
     state.merge({
       data: payload.data,
     })
-  ),  
+  ),
+    // 当使用者输入使用者 ID 会发出 CHAGE_USER_ID action 时将接收到的资料 merge 
   CHAGE_USER_ID: (state, { payload }) => (
     state.merge({
       'userId':

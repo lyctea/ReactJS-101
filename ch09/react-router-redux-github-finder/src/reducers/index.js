@@ -8,3 +8,4 @@ const rootReducer = combineReducers({
 });
 
 export default rootReducer;
+//将 reduces 使用 redux-immutable 的 combineReducers 在一起

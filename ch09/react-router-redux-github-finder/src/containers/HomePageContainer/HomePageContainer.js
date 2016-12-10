@@ -6,6 +6,7 @@ import {
   changeUserId,
 } from '../../actions';
 
+//负责将 userId 和使用到的事件处理方法用 props 传进 component
 export default connect(
   (state) => ({
     userId: state.getIn(['github', 'userId']),

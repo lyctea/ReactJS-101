@@ -1,4 +1,5 @@
 import React from 'react';
+// 使用 react-router 的 Link 当做超连结，传送 userId 当作 query
 import { Link } from 'react-router';
 import RaisedButton from 'material-ui/RaisedButton';
 import TextField from 'material-ui/TextField';

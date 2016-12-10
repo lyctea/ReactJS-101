@@ -6,6 +6,7 @@ import {
   HIDE_SPINNER,
 } from '../../constants/actionTypes';
 
+// 随着 fetch 结果显示 spinner
 const uiReducers = handleActions({
   SHOW_SPINNER: (state) => (
     state.set(

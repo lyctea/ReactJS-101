@@ -2,20 +2,21 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/ResultPage.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/reducers/data/githubReducers.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/reducers/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/ResultPageContainer/ResultPageContainer.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/ResultPageContainer/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/HomePageContainer/HomePageContainer.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/containers/HomePageContainer/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/GithubBox/GithubBox.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/store/configureStore.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/store/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/HomePage.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/reducers/ui/uiReducers.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/reducers/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/reducers/ui/uiReducers.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/reducers/data/githubReducers.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/constants/models.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/actions/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/actions/uiActions.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/containers/HomePageContainer/HomePageContainer.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/components/GithubBox/GithubBox.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/actions/githubActions.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/components/ResultPage/ResultPage.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/constants/actionTypes.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/components/HomePage/HomePage.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/components/Main/Main.js" />
+        <item url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/store/configureStore.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -63,6 +64,21 @@
       <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/HomePage/HomePage.js" />
       <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/components/ResultPage/index.js" />
       <root url="file://$PROJECT_DIR$/dist/ch09/github-finder/src/reducers/ui/uiReducers.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/reducers/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/reducers/ui/uiReducers.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/reducers/data/githubReducers.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/constants/models.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/actions/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/actions/uiActions.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/containers/HomePageContainer/HomePageContainer.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/components/GithubBox/GithubBox.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/actions/githubActions.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/components/ResultPage/ResultPage.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/constants/actionTypes.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/components/HomePage/HomePage.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/components/Main/Main.js" />
+      <root url="file://$PROJECT_DIR$/dist/ch09/react-router-redux-github-finder/src/store/configureStore.js" />
     </CLASSES>
     <SOURCES />
   </library>

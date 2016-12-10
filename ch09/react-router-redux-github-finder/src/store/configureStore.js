@@ -11,3 +11,5 @@ export default createStore(
   initialState,
   applyMiddleware(reduxThunk, createLogger({ stateTransformer: state => state.toJS() }))
 );
+
+//运用 redux 提供的 createStore API 把 rootReducer、initialState、middlewares 整合后创建出 store

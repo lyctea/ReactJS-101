@@ -1,7 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router';
+// 引入 material-ui 的卡片式组件
 import { Card, CardActions, CardHeader, CardText } from 'material-ui/Card';
+// 引入 material-ui 的 RaisedButton
 import RaisedButton from 'material-ui/RaisedButton';
+// 引入 ActionHome icon
 import ActionHome from 'material-ui/svg-icons/action/home';
 
 const GithubBox = (props) => (

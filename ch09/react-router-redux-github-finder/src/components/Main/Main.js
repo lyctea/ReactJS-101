@@ -1,4 +1,5 @@
 import React from 'react';
+// 引入 AppBar
 import AppBar from 'material-ui/AppBar';
 
 const Main = (props) => (
@@ -13,6 +14,7 @@ const Main = (props) => (
   </div>
 );
 
+// 进行 propTypes 验证
 Main.propTypes = {
   children: React.PropTypes.object,
 };

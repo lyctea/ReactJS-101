@@ -1,3 +1,4 @@
+//定义action常量
 export const SHOW_SPINNER = 'SHOW_SPINNER';
 export const HIDE_SPINNER = 'HIDE_SPINNER';
 export const GET_GITHUB_INITIATE = 'GET_GITHUB_INITIATE';

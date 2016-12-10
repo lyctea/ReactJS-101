@@ -9,10 +9,12 @@ import HomePageContainer from './containers/HomePageContainer';
 import ResultPageContainer from './containers/ResultPageContainer';
 import store from './store';
 
-// Needed for onTouchTap
-// http://stackoverflow.com/a/34015469/988941
+// 引入react-tap-event-plugin 避免material-ui onTouchTap event出现问题
+//
 injectTapEventPlugin();
-
+//用react-redux的provider包起来讲store传递下去,让每个components都可以存取到state
+//使用browserHistory当做history,并使用material-ui的MuiThemeProvider包裹整个components
+//Main为母模板,其中有两个组件HomePageContainer  ResultPageContainer
 ReactDOM.render(
   <Provider store={store}>
     <MuiThemeProvider>
